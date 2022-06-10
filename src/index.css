@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.drop-container {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  margin: auto;
+}
